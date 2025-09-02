@@ -1,0 +1,15 @@
+.logo{
+    height: 200px;
+    width: 350px;
+    align-content: start;
+}
+.landing{
+    height: 400px;
+    width: 500;
+}
+.navigation{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content:top-end;
+    display: flex;
+
+}
